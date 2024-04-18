@@ -2,7 +2,7 @@
 
 ## Summary: 📋 
 
-https://app.netlify.com/sites/laurasguitarshop/configuration/general
+https://laurasguitarshop.netlify.app/
 
 Project based on a store selling guitars. 
 It is possible to visualize a list of guitars through a request in a DB. In addition, it is possible to add different models to the shopping cart. 
